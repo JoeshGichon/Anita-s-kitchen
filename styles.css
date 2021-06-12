@@ -70,6 +70,10 @@
     border: 2px solid black;
     width: 300px;
 }
+
+#section-2{
+    background-image: url(./assets/foodsBg.jpg);
+}
 /* -----------------------End main styles--------------------------- */
 
 /* ----------------------Footer styles------------------------------ */
