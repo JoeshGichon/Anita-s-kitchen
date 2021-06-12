@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* -----------------header styles------------------------- */
+#header-section-1{
+    background-image: url(./assets/landing.jpg);
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+#logo{
+    position: relative;
+    left: 480px;
+    padding: 30px;
+}
+#logo>img{
+    height: 200px;
+}
+#welcome-message{
+    line-height: 1.2em;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+/* -----------------End header styles------------------------- */
+
+/* -----------------------main styles--------------------------- */
+/* -----------------------End main styles--------------------------- */
+
+/* ----------------------Footer styles------------------------------ */
+/* ----------------------End Footer styles------------------------------ */
