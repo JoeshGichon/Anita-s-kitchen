@@ -82,6 +82,24 @@
     padding: 10px;
     display: inline;
 }
+#main-sec-2>div>h5{
+    color: #F15A29;
+    border: 1px solid #F15A29;
+    padding: 10px;
+    display: inline;
+}
+#main-sec-2>div>p{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    line-height: 2.2em;
+}
+.img-1>img{
+    height: 270px;
+}
+.img-1{
+    box-shadow: 2px 2px 5px grey;
+    padding: 10px;
+}
 #section-2{
     background-image: url(./assets/foodsBg.jpg);
     margin: 70px;
