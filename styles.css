@@ -83,4 +83,14 @@
 /* -----------------------End main styles--------------------------- */
 
 /* ----------------------Footer styles------------------------------ */
+footer{
+    display: flex;
+    flex-direction: column;
+}
+#footer-section-1{
+    background-image: url(./assets/subscribe.jpg);
+}
+#footer-section-2{
+    background-color: #F15A29;
+}
 /* ----------------------End Footer styles------------------------------ */
