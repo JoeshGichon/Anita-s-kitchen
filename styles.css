@@ -74,6 +74,12 @@
 #section-2{
     background-image: url(./assets/foodsBg.jpg);
 }
+
+#section-3{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 50px;
+}
 /* -----------------------End main styles--------------------------- */
 
 /* ----------------------Footer styles------------------------------ */
