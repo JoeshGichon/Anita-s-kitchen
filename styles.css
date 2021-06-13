@@ -188,4 +188,20 @@ footer>#footer-section-2{
 footer>#footer-section-2>div{
     margin-top: 20px;
 }
+.btn-1{
+    padding: 90px;
+}
+.btn-1:hover{
+    cursor: pointer;
+    font-size: 20px;
+}
+#emailbtn{
+    background-color: whitesmoke;
+    opacity: 0.2;
+    color: black;
+}
+#subscribebtn{
+    background-color: #F15A29;
+}
+
 /* ----------------------End Footer styles------------------------------ */
