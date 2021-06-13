@@ -85,6 +85,11 @@
     padding: 10px;
     display: inline;
 }
+#main-section-1>#main-sec-1>#main-sec-1-2>h5:hover,#main-sec-2>div>h5:hover{
+    background-color: tomato;
+    color: white;
+    cursor: pointer;
+}
 #main-sec-2>div>h5{
     color: #F15A29;
     border: 1px solid #F15A29;
