@@ -28,7 +28,6 @@
     margin-bottom: 20px;
     margin-top: -20px;
 }
-
 #header-section-2{
     display: flex;
 }
@@ -37,6 +36,10 @@
 }
 #header-section-2 div>h2{
     padding: 40px;
+}
+#blurry{
+    background-color:whitesmoke;
+    opacity: 0.5;
 }
 #header-section-2>div:nth-child(2){
     background-image: url(./assets/breakfast.jpg);
