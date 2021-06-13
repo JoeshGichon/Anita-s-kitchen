@@ -73,8 +73,28 @@
 
 #section-2{
     background-image: url(./assets/foodsBg.jpg);
+    margin: 70px;
 }
-
+#section-2>#background-image{
+    margin: 80px;
+}
+#section-2>#background-image>ul{
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    height: 40px;
+    align-items: center;
+}
+#section-2>#background-image>span{
+    display: flex;
+    justify-content: flex-end;
+}
+#section-2>#background-image>span>img{
+    margin-bottom: 40px;
+    padding: 25px;
+}
 #section-3{
     display: flex;
     margin: 70px;
